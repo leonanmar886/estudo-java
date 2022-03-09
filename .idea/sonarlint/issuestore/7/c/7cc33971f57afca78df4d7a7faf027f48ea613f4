@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÛõ©øÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÏÛõ©øÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(È°³¹ûÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ú®¢Êúÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(š•ÊÌ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+n
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÏşE
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÂş
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Šûçÿûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀºİÊ
